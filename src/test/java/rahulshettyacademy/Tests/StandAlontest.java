@@ -20,7 +20,7 @@ public class StandAlontest {
 
 	public static void main(String[] args) throws InterruptedException {
 		
-		
+		//New Comment demo CICD
 		
 		
 		String productName = "ZARA COAT 3";
